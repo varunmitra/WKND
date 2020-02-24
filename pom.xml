@@ -6,7 +6,7 @@
     <groupId>com.adobe.aem.guides</groupId>
     <artifactId>wknd</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
 	<modules>
         <module>wknd</module> 
 	<module>dispatcher</module> 

@@ -32,7 +32,7 @@
         <module>it.tests</module>
         <module>it.launcher</module>
         <module>repository-structure</module>
-        <module>dispatcher</module>
+        
     </modules>
 
     <properties>
